@@ -1,4 +1,3 @@
 ISA-Tab-Datasets
 ================
-This repository for University X student biology lab datasets collection documents decisions, project details, and practices.
-It also includes how-to information such as cheat sheets and manuals.
+This repository for University X student biology lab datasets collection includes how-to information for ISA-Tab such as cheat sheets and manuals.
