@@ -1,0 +1,11 @@
+Using and Reusing Ontology Terms
+
+The BioPortal Ontologies embedded in ISA-Tab give us the ability to restrict the metadata elements and fields to a limited selection. 
+[BioPortal](http://bioportal.bioontology.org) provides access to life science ontologies and terminologies for scientific experiments. Be aware that terms have a "life cycle", starting with their creation and ending with their obsolescence. You should check the status of a term before using it. Terms that should no longer be used are marked as *obsolete*.
+![BioPortal screenshot](../images/bioportal.png)
+
+
+Finding Ontology Terms
+
+In this section you'll learn how to search for ontology terms and how to add them to the ISA-Tab application.
+Begin by double-clicking in a cell and entering a term in the pop-up Ontology window. 
